@@ -5,7 +5,7 @@ I worked as a laboratory assistant at Skånemejerier, a dairy products manufacto
 I have programmed mostly in java, but have also coded in C, C#, HTML&CSS, Assembly and VHDL. My interests are, but are not limited to: machine learning, artificial
 intelligence and deep learning.
 
-If you wish to reaech me, my contact info can be found below:
+If you wish to reach me, my contact info can be found below:
 
 Mail: Christoffer.Johansson.Lundqvist@outlook.com
 
