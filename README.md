@@ -1,6 +1,6 @@
 Hello, my name is Christoffer.
 I am currently a 23 year old Swedish second year college student, attending LTH Helsingborg and studying Computer Science. During the two years leading up to my studies,
-I worked as a laboratory assistant at Skånemejerier, a dairy products manufactorer, where I performed quality- and safety tests on products.
+I worked as a laboratory assistant at Skånemejerier, a dairy products manufactorer, where I maintained laboratory equipment, as well as performed quality- and safety tests on products.
 
 I have programmed mostly in java, but have also coded in C, C#, HTML & CSS, Assembly and VHDL. My interests are, but are not limited to: back-end development, data communications and networking, and artificial intelligence.
 
