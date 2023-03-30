@@ -7,5 +7,4 @@ I have programmed mostly in java, but have also coded in C, C#, HTML & CSS, Asse
 If you wish to reach me, my contact info can be found below:
 
 Mail: Christoffer.Johansson.Lundqvist@outlook.com
-
 LinkedIn: https://www.linkedin.com/in/christoffer-johansson-lundqvist-27732a144
